@@ -1,0 +1,7 @@
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\adiel\OneDrive\Escritorio\Actividad Evaluada Semana 2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
