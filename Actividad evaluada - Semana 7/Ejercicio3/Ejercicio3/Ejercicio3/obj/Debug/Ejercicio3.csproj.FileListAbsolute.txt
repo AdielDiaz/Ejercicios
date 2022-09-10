@@ -1,0 +1,10 @@
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Actividad evaluada - Semana 7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
