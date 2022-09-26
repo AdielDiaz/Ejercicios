@@ -1,0 +1,10 @@
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.csproj.AssemblyReference.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Practica semana 9\Empleados\Empleados\obj\Debug\Empleados.pdb
