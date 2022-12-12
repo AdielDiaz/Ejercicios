@@ -1,0 +1,60 @@
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\Parcial III ProgramciónComputacional.dll.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\Parcial III ProgramciónComputacional.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\Parcial III ProgramciónComputacional.pdb
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csc.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csc.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csc.rsp
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csi.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csi.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\csi.rsp
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.AppContext.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Console.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.IO.Compression.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Net.Http.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.ValueTuple.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\vbc.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\vbc.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\vbc.rsp
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\VBCSCompiler.exe
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\obj\Debug\Parcial III ProgramciónComputacional.csproj.AssemblyReference.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\obj\Debug\Parcial III ProgramciónComputacional.csproj.CoreCompileInputs.cache
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\obj\Debug\Parcial III ProgramciónComputacional.csproj.CopyComplete
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\obj\Debug\Parcial III ProgramciónComputacional.dll
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\obj\Debug\Parcial III ProgramciónComputacional.pdb
+C:\Users\adiel\OneDrive\Escritorio\C#\Parcial III ProgramciónComputacional\Parcial III ProgramciónComputacional\bin\MySql.Data.dll
